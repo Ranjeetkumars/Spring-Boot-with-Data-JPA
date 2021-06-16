@@ -1,0 +1,33 @@
+package com.example;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class Test {
+	
+	@Bean
+	public A a() {
+		A a1 = new A();
+		return  a1;
+	}
+
+}
+
+
+
+
+class A {
+	
+	public A() {
+		
+		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@");
+	}
+	
+	
+	public void m1() {
+		System.out.println("M1 method executed");
+	}
+	
+	
+}

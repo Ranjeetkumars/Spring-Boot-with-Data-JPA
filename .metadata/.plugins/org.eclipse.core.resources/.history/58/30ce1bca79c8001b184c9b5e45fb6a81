@@ -1,0 +1,14 @@
+package com.example;
+
+public class A1 {
+	
+//	public A() {
+//
+//		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@");
+//	}
+
+	public void m1() {
+		System.out.println("M1 method executed");
+	}
+
+}

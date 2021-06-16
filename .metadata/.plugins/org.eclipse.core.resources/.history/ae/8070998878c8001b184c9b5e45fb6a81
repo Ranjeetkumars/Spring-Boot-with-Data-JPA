@@ -1,0 +1,21 @@
+package com.example;
+
+
+
+
+public class Test {
+
+}
+
+
+
+
+class A {
+	
+	public A() {
+		
+		System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@");
+	}
+	
+	
+}

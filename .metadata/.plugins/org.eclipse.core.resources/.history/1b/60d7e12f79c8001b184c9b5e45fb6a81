@@ -1,0 +1,11 @@
+package com.example;
+
+public class Demo {
+	
+	
+	public Demo() {
+		
+		System.out.println("****************** Demo***************");
+	}
+
+}

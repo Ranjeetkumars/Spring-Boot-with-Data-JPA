@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;SpringBootDataJPAOneToManyEx-2&apos; to &apos;SpringBootDataJPAOneToManyEx-1&apos;&#x0D;&#x0A;- Original element: &apos;SpringBootDataJPAOneToManyEx-2&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringBootDataJPAOneToManyEx-2&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;SpringBootDataJPAOneToManyEx-2&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=SpringBootDataJPAOneToManyEx-2" name="SpringBootDataJPAOneToManyEx-1" references="true" stamp="1622644899752" version="1.0"/>
+</session>
